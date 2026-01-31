@@ -1,0 +1,4 @@
+Pillow
+rembg
+flask
+python-telegram-bot
