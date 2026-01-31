@@ -1,4 +1,7 @@
+
 Pillow
 rembg
 flask
-python-telegram-bot
+twilio
+requests
+gunicorn
